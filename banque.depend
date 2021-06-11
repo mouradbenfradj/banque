@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1431399632 source:c:\users\mourad\skydrive\cprojet\banque\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+
+1431428080 source:c:\users\mourad\desktop\banque\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock.h>
+	<MYSQL/mysql.h>
+
